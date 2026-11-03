@@ -1,0 +1,1 @@
+"""Database package - handles SQLite connection and schema creation."""

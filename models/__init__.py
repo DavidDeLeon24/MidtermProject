@@ -1,0 +1,1 @@
+"""Model package - plain data classes for domain objects."""
