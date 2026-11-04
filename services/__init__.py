@@ -1,0 +1,1 @@
+"""Service layer - encapsulates business rules and DB access."""
